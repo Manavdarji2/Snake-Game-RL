@@ -8,12 +8,6 @@ The agent learns to navigate the game, eat food, and avoid collisions by optimiz
 
 ---
 
-# Demo
-
-<video controls src="Video/Model_training.mp4" title="Title"></video>
-
----
-
 ## Project Structure
 
 ```
